@@ -1,0 +1,2070 @@
+[
+ {
+   "A": "Role",
+   "B": "String"
+ },
+ {
+   "A": "Commercial Apps Director",
+   "B": "Director IT Applications , applications Director , Director - Enterprise , Director, Enterprise , Director, applications , Director - Applications , Enterprise Applications , director "
+ },
+ {
+   "A": "End-User Comp Cons",
+   "B": "Consult* , pre-sales , Presales , *sales "
+ },
+ {
+   "A": "PHP/LAMP Dev",
+   "B": "PHP "
+ },
+ {
+   "A": "Oracle DBA",
+   "B": "Oracle DBA , Oracle Database Admin , Oracle Database Administrator , Database Administrator "
+ },
+ {
+   "A": "Helpdesk Technician",
+   "B": "Tier-1 , tier 1 , tier1 , helpdesk "
+ },
+ {
+   "A": "UX Designer",
+   "B": "Architect "
+ },
+ {
+   "A": "PMs",
+   "B": "PM , project manager "
+ },
+ {
+   "A": "DW Engineer Informatica",
+   "B": "Informatica "
+ },
+ {
+   "A": "Enterprise Apps Director",
+   "B": "manager "
+ },
+ {
+   "A": "JavaScript/Web Dev",
+   "B": "Javascript , java script , Java-Script "
+ },
+ {
+   "A": "iOS/",
+   "B": "HTML , CSS , *JS , JavaScript , web "
+ },
+ {
+   "A": "Site Reliability Engineer",
+   "B": ".NET , C# , Java , J2EE "
+ },
+ {
+   "A": "Network Engineer",
+   "B": "BGP "
+ },
+ {
+   "A": "Systems Engineer",
+   "B": "Linux "
+ },
+ {
+   "A": "Enterprise Arch Corp/Oracle",
+   "B": "Oracle Financials "
+ },
+ {
+   "A": "Network Security Mgr",
+   "B": "manager "
+ },
+ {
+   "A": "Systems Engineer",
+   "B": "System Engineer , systems engineer , linux engineer , linux systems , linux system , Linux Admin , Linux SysAdmin , network engineer "
+ },
+ {
+   "A": "Lead BA",
+   "B": "lead , manager "
+ },
+ {
+   "A": "Oracle IDM",
+   "B": "Implementation , implement , implemented "
+ },
+ {
+   "A": "Tech PM",
+   "B": "Technical Product Manager , technical product management , product manager "
+ },
+ {
+   "A": "Systems Architect",
+   "B": "System architect , systems architect , system engineer , systems engineer "
+ },
+ {
+   "A": "BI/Analytics Developer",
+   "B": "Developer "
+ },
+ {
+   "A": "Web Implementation",
+   "B": "web analytics , web analyst , content management "
+ },
+ {
+   "A": "PM",
+   "B": "Project Manager , PM "
+ },
+ {
+   "A": "Systems Engineer Splunk",
+   "B": "System Engineer , systems engineer , linux engineer , linux systems , linux system "
+ },
+ {
+   "A": "Avaya Engineer",
+   "B": "Avaya "
+ },
+ {
+   "A": "Developer",
+   "B": "Perl , PHP , Python , C++ , Java "
+ },
+ {
+   "A": "SWE Team Lead",
+   "B": "Python "
+ },
+ {
+   "A": "Solutions Architect",
+   "B": "Solution Architect , Solutions Architect , Architect "
+ },
+ {
+   "A": "Chief Architect",
+   "B": "Architect "
+ },
+ {
+   "A": "Magento Architect",
+   "B": "Magento Architect , Technical Architect , ecommerce architect , e-commerce architect , commerce architect "
+ },
+ {
+   "A": "QA ",
+   "B": "QA , quality assurance "
+ },
+ {
+   "A": "Business/Data Analyst",
+   "B": "Business Analyst , Data Analyst , BA "
+ },
+ {
+   "A": "JS Dev",
+   "B": "Web Developer , JS Developer , javascript developer , angular developer , angularJS developer , angular.js developer "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Visual Designer",
+   "B": "Axure , Balsamiq , wireframe , wireframing , prototyping "
+ },
+ {
+   "A": "Web Admin",
+   "B": "Web Admin , Web Administrator , Website Admin , Website Administrator , WebAdmin "
+ },
+ {
+   "A": "Principal Architect",
+   "B": "Principal Architect , Chief Architect , Solutions Architect , Solution Architect , Java Architect "
+ },
+ {
+   "A": "Prac PM",
+   "B": "Project Manager , PM , project management "
+ },
+ {
+   "A": "Lead SysEng",
+   "B": "lead , manager , principal , chief "
+ },
+ {
+   "A": "Solutions Architect",
+   "B": "BI , business intelligence "
+ },
+ {
+   "A": "Marketing Mgr",
+   "B": "lead* , manag* , direct* "
+ },
+ {
+   "A": "Telecom Analyst",
+   "B": "telecom* , telephon* "
+ },
+ {
+   "A": ".NET Solns Arch",
+   "B": ".NET , C# , Java "
+ },
+ {
+   "A": "Elec Sys Eng",
+   "B": "Electrical , EE , electrical engineer "
+ },
+ {
+   "A": "UX/UI Designer",
+   "B": "user experience , user interface , UI , UX "
+ },
+ {
+   "A": "VP SWE ",
+   "B": "VP , Director , Manager "
+ },
+ {
+   "A": "Sys Eng",
+   "B": "Server "
+ },
+ {
+   "A": "Infra Eng",
+   "B": "Infrastructure , DevOps "
+ },
+ {
+   "A": "Pega Arch",
+   "B": "Pega , BPM , Pega CSA , Pega-CSA , BPM Pega "
+ },
+ {
+   "A": "Sec Assmt Analyst",
+   "B": "security "
+ },
+ {
+   "A": "SWE PA",
+   "B": ".NET , C# "
+ },
+ {
+   "A": "SWE Data Services",
+   "B": ".NET , C# "
+ },
+ {
+   "A": "Network Admin",
+   "B": "Network Engineer , Network Admin , Network Administrator , Network Architect "
+ },
+ {
+   "A": "Info Sec Mgr",
+   "B": "information security , IT Security , ISM "
+ },
+ {
+   "A": "SysAdmin",
+   "B": "Red Hat , RedHat , RHEL , RH , CentOS "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , J2EE , JEE "
+ },
+ {
+   "A": "Web Dev",
+   "B": "HTML , HTML5 "
+ },
+ {
+   "A": "Network Eng",
+   "B": "TCP/IP "
+ },
+ {
+   "A": "Tech Analyst",
+   "B": "SQL , Toad , query , queries "
+ },
+ {
+   "A": "SWDE",
+   "B": "Engineer , Developer , Programmer "
+ },
+ {
+   "A": "Solns Arch",
+   "B": "BI , business intelligence "
+ },
+ {
+   "A": "DevOps Eng",
+   "B": ".NET , Java , J2EE "
+ },
+ {
+   "A": "Risk/Comp Recruiter",
+   "B": "recruiter , recruit , talent "
+ },
+ {
+   "A": ".NET Dev",
+   "B": "C# , .NET "
+ },
+ {
+   "A": "Big Data Eng",
+   "B": "Hadoop "
+ },
+ {
+   "A": "Enterprise Mgr",
+   "B": "Hadoop "
+ },
+ {
+   "A": "Win SysEng",
+   "B": "SCCM , SCOM , Systems Center , Configuration Manager "
+ },
+ {
+   "A": "BSA",
+   "B": "Business Analyst , Business Systems Analyst , Data Analyst "
+ },
+ {
+   "A": "Prod/Proj Mgr",
+   "B": "Product Manager , Product management , product development "
+ },
+ {
+   "A": "QA Architect",
+   "B": "QA , quality assurance , SDET , test , testing "
+ },
+ {
+   "A": "Tech Support",
+   "B": "support , tech , technical , help "
+ },
+ {
+   "A": "Customer Insight Analyst DA",
+   "B": "data analyst , data analysis , data analytics , business analyst , BA , business analysis , business analytics "
+ },
+ {
+   "A": "Front-End Web Dev",
+   "B": "front end , front-end , frontend , web "
+ },
+ {
+   "A": "Mobile Apps Architect",
+   "B": "Windows 8 , Windows8 , win8 , Windows 8.1 , win8.1 , win 8 , 8/8.1 "
+ },
+ {
+   "A": "iOS Dev",
+   "B": "iOS , iPhone , iPad "
+ },
+ {
+   "A": "Big Data Eng",
+   "B": "Hadoop , CDH , HDFS , MapReduce , HBase , Flume "
+ },
+ {
+   "A": "Tech PM",
+   "B": "Product Manager , UX Designer , UI Designer , UX/UI Designer , UX/UI "
+ },
+ {
+   "A": "Front-End Dev",
+   "B": "JavaScript , jQuery , JS , Node.JS , NodeJS , Node , Angular.JS , AngularJS , Angular "
+ },
+ {
+   "A": "iOS Dev",
+   "B": "iOS , iPhone , iPad "
+ },
+ {
+   "A": "DevOps Eng",
+   "B": "DevOps "
+ },
+ {
+   "A": "Jr .NET",
+   "B": ".NET "
+ },
+ {
+   "A": "PHP Dev",
+   "B": "PHP "
+ },
+ {
+   "A": "Fin Sys Analyst",
+   "B": "financial analyst , systems analyst , financial systems analyst , FSA "
+ },
+ {
+   "A": "Mobility Arch",
+   "B": ".NET , C# , Visual Studio "
+ },
+ {
+   "A": "Web Sec Eng",
+   "B": "security "
+ },
+ {
+   "A": "Web/Mobile Dev",
+   "B": "Javascript , JS "
+ },
+ {
+   "A": "Back-End Dev",
+   "B": ".NET , C# "
+ },
+ {
+   "A": "Cloud Eng",
+   "B": "virtualization , VMware , KVM , Xen "
+ },
+ {
+   "A": "BA",
+   "B": "BA , Business Analyst , Data Analyst , financial analyst , financial business analyst , financial systems analyst "
+ },
+ {
+   "A": "Data Analyst",
+   "B": "SAS "
+ },
+ {
+   "A": "Fin Mgr/Global Process",
+   "B": "Business Analyst , Financial Analyst , Financial Systems Analyst , Financial System Analyst "
+ },
+ {
+   "A": "SWE/DevOps",
+   "B": "DevOps "
+ },
+ {
+   "A": "O365 Cons",
+   "B": "Office 365 , O365 , 365 "
+ },
+ {
+   "A": "Sr .NET",
+   "B": ".NET "
+ },
+ {
+   "A": "Internal Audit Manager",
+   "B": "Internal Audit , internal audits , internal auditing , Internal Auditor "
+ },
+ {
+   "A": "Creative Dir",
+   "B": "UX , User Experience "
+ },
+ {
+   "A": "Lead SQL DBA",
+   "B": "SQL Server DBA , SQL DBA , MSSQL DBA , MS DBA , SQL Server Database Admin , SQL Database Admin , MS SQL Database Admin , MSSQL Database Admin , SQL Server Database Administrator , MS SQL Database Administrator , Microsoft SQL Database Administrator "
+ },
+ {
+   "A": "Integration Lead EAI/SOA",
+   "B": "Enterprise Application Integration , Application Integration , Enterprise Integration , EAI "
+ },
+ {
+   "A": "Dist Server Admin Lead",
+   "B": "Windows Server , Win Server , WinServer "
+ },
+ {
+   "A": "Jr SalesForce",
+   "B": "SalesForce "
+ },
+ {
+   "A": "Network Sec Eng",
+   "B": "Network Security "
+ },
+ {
+   "A": "Print Prod Eng",
+   "B": ".NET "
+ },
+ {
+   "A": "SAP Solns Arch",
+   "B": "Solution Architect , Solutions Architect , Architect "
+ },
+ {
+   "A": "SAP Sec Admin",
+   "B": "SAP Security , SAP IT Security "
+ },
+ {
+   "A": "Sys Eng Sitecore",
+   "B": "Systems Engineer , System Engineer , Systems Administrator , System Administrator , SysAdmin , Systems Admin , System Admin "
+ },
+ {
+   "A": "Portfolio Mgr",
+   "B": "portfolio manager , portfolio management "
+ },
+ {
+   "A": "BA Hybris",
+   "B": "Business Analyst , Business Analysis , BA "
+ },
+ {
+   "A": "Cloud Sales Eng",
+   "B": "Cloud "
+ },
+ {
+   "A": "Infra Eng",
+   "B": "Server , infrastructure "
+ },
+ {
+   "A": "Arcsight Eng",
+   "B": "ArcSight Consultant , Arcsight technical , Arcsight Architect , Arcsight Designer , Arcsight Developer , Arcsight Engineer "
+ },
+ {
+   "A": "Ruby",
+   "B": "Ruby , Rails , RoR "
+ },
+ {
+   "A": "Sec Eng",
+   "B": "Network Security "
+ },
+ {
+   "A": "Jr Network Eng",
+   "B": "Network Engineer , Network Admin , Network Administrator "
+ },
+ {
+   "A": "Data Analyst",
+   "B": "Data Analyst , data analysis , data analytics "
+ },
+ {
+   "A": "BA",
+   "B": "Business Analyst , BA , Business Analysis , Business Analytics "
+ },
+ {
+   "A": "Python Dev",
+   "B": "Python "
+ },
+ {
+   "A": "Desktop Admin",
+   "B": "Desktop Support , Desktop Admin , Desktop Administrator , Help Desk "
+ },
+ {
+   "A": "MSS Cons/Sec Eng",
+   "B": "Managed Security Services , MSS "
+ },
+ {
+   "A": "UX Researcher",
+   "B": "User Experience Researcher , UX Researcher "
+ },
+ {
+   "A": "Middleware Specialist",
+   "B": "JBOSS EAP , JBOSS Enterprise Application Platform , EAP "
+ },
+ {
+   "A": "Global Account Exec",
+   "B": "Business to Business , Business-to-Business , B2B "
+ },
+ {
+   "A": "Vendavo Sys Spec",
+   "B": "System , Systems "
+ },
+ {
+   "A": "SAP Analyst",
+   "B": "CRM , C4C , SAP "
+ },
+ {
+   "A": "Analytics Eng/Data Scientist",
+   "B": "Analytics Engineer , Analytical Engineer , Data Scientist , Statistician , Data Analyst "
+ },
+ {
+   "A": "EWM",
+   "B": "SAP EWM , SAP Warehouse , EWM , Extended Warehouse Management "
+ },
+ {
+   "A": "Sec Eng",
+   "B": "LogRhythm , log management , logging , file management , log , SIEM , SEM , SIM , Palo Alto , Palo-Alto , PaloAlto "
+ },
+ {
+   "A": ".NET Dev",
+   "B": "C# "
+ },
+ {
+   "A": "Sys Cons file mvmt",
+   "B": "COBOL "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , J2EE , JEE "
+ },
+ {
+   "A": "PM",
+   "B": "Project Manager , PM "
+ },
+ {
+   "A": "Cloud Eng",
+   "B": "MCTS , MCITP , MCPD , MCSE , MCSD , MCSM , VCP , VCD , VCA "
+ },
+ {
+   "A": "Sec Cons",
+   "B": "Security Platform Administration , SPA , network security "
+ },
+ {
+   "A": "Data Scientist",
+   "B": "data science , data scientist , big data , hadoop "
+ },
+ {
+   "A": "Hadoop Eng",
+   "B": "Hadoop "
+ },
+ {
+   "A": "Prod Support Mgr",
+   "B": "Production Support Manager , Production Support Lead , Production Support Project Manager "
+ },
+ {
+   "A": "Incident Response Eng",
+   "B": "Security "
+ },
+ {
+   "A": "SAP EAM PM",
+   "B": "PMP "
+ },
+ {
+   "A": "NOC Spec",
+   "B": "Network Administrator , Network Admin , Network Specialist , Network Consultant , NOC Specialist , NOC Administrator , NOC Admin "
+ },
+ {
+   "A": "DBA",
+   "B": "Database Administrator , Database Admin , DBA "
+ },
+ {
+   "A": "Payroll Mgr",
+   "B": "Payroll "
+ },
+ {
+   "A": "Accountant",
+   "B": "Accountant , Accounting "
+ },
+ {
+   "A": "Java Arch/Lead",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Angular Dev",
+   "B": "Angular , angularJS , Angular.JS , angular-js "
+ },
+ {
+   "A": "PM ",
+   "B": "PM* , project manager , Project management "
+ },
+ {
+   "A": "Video Eng",
+   "B": "VOD , Video on Dem"
+ },
+ {
+   "A": "Server Systems",
+   "B": "Network* , Ethernet , 802.3 , DMTF , NCSI , NC-SI , PCIe , Fibre , Infinib"
+ },
+ {
+   "A": ".NET Dev",
+   "B": ".NET , C# "
+ },
+ {
+   "A": "JDE Cons",
+   "B": "JDE , JD Edwards , Enterprise One , Enterpriseone , Enterprise1 , E1 , JDEE1 , JDEW , JDEOW , oneworld , 1world , one world "
+ },
+ {
+   "A": "CNC Cons",
+   "B": "JDE CNC , JDE , JD Edwards , Enterprise One , Enterpriseone , Enterprise1 , E1 , JDEE1 , JDEOW , oneworld , 1World "
+ },
+ {
+   "A": "Operations Analyst",
+   "B": "Project Coordinator , Project Administrator , Project Admin "
+ },
+ {
+   "A": "Desktop Tech",
+   "B": "Desktop , help desk "
+ },
+ {
+   "A": "PM",
+   "B": "project manager , project management , PM "
+ },
+ {
+   "A": "Solns Arch",
+   "B": "Solutions Architect , Solution Architect , architect "
+ },
+ {
+   "A": "Lead Elec HW Des Eng",
+   "B": "Electrical , EE "
+ },
+ {
+   "A": "Test Analyst",
+   "B": "test "
+ },
+ {
+   "A": "DBA",
+   "B": "SQL "
+ },
+ {
+   "A": "CMMS PM",
+   "B": "pm , PMP , project manager "
+ },
+ {
+   "A": "BPM Arch",
+   "B": "IBM Business Process Management , IBM BPM , IBM-BPM , IBMBPM , BPM* , lombardi , BPMS "
+ },
+ {
+   "A": "Cyber Analyst",
+   "B": "security , cyber , threat "
+ },
+ {
+   "A": "Info Sec Analyst",
+   "B": "IAM , Identity , Access , IMS , identity management , AMS , access management "
+ },
+ {
+   "A": "Risk/Comp Manager",
+   "B": "risk "
+ },
+ {
+   "A": "PM",
+   "B": "Project Manager , Project Management , PM "
+ },
+ {
+   "A": "QA Auto",
+   "B": "QA , quality assurance , SDET , test , testing "
+ },
+ {
+   "A": "Princ Network Server",
+   "B": "Network , networks , networking , Ethernet , 802.3 , DMTF , NCSI , NC-SI , PCIe , Fibre , Infinib"
+ },
+ {
+   "A": "Marketing Auto Analyst",
+   "B": "Marketo , SalesForce , Salesfoce.com , sales-Force , Sales force , Marketing Automation , CRM "
+ },
+ {
+   "A": "Tableau Cons",
+   "B": "Tableau "
+ },
+ {
+   "A": "Data Steward",
+   "B": "data analyst , data specialist , data analytics , business analyst , systems analyst "
+ },
+ {
+   "A": "QA",
+   "B": "QA , Quality Assurance "
+ },
+ {
+   "A": "API Team Lead",
+   "B": "Lead , manager , principal "
+ },
+ {
+   "A": "BI Dev",
+   "B": "BI Analyst , BI Developer , Reports Developer , Report Developer , BI Reporting "
+ },
+ {
+   "A": "DevOps Eng",
+   "B": "DevOps "
+ },
+ {
+   "A": "Test Eng",
+   "B": "Test , testing , QA , quality assurance "
+ },
+ {
+   "A": "SAP MM Team Lead",
+   "B": "Lead , Manager , Principal "
+ },
+ {
+   "A": "Security Ops Lead",
+   "B": "network "
+ },
+ {
+   "A": "VP Client Success",
+   "B": "Director , SVP , VP , vice president "
+ },
+ {
+   "A": "Digital Pre-Sales",
+   "B": "Enterprise "
+ },
+ {
+   "A": "Big Data Arch",
+   "B": "Big Data "
+ },
+ {
+   "A": "GeMS BA",
+   "B": "Global Enterprise Management Solutions , GEMS , Enovia , PLM , PLM software , project lifecycle management software "
+ },
+ {
+   "A": "IoT Pre-Sales",
+   "B": "Pre-sales , Presales "
+ },
+ {
+   "A": "Mgr/Dir Tech",
+   "B": "Director , Manager , VP , vice president , Development Manager , Development Director "
+ },
+ {
+   "A": ".NET Dev",
+   "B": ".NET , C# "
+ },
+ {
+   "A": "Prod Mgr",
+   "B": "Product Manager "
+ },
+ {
+   "A": "Network Spec",
+   "B": "Network "
+ },
+ {
+   "A": "JS Dev",
+   "B": "JS , JavaScript , Angular , angularjs , angular.js , jQuery , React "
+ },
+ {
+   "A": "Sys Admin",
+   "B": "Systems Administrator , System Administrator , Systems Admin , System Admin , Sys Admin , SysAdmin "
+ },
+ {
+   "A": "Instructional Trainer",
+   "B": "trainer , instructor "
+ },
+ {
+   "A": "O365 Cons",
+   "B": "Office 365 , O365 , O-365 , Office 365 Consultant , O365 Consultant "
+ },
+ {
+   "A": "Data Analyst",
+   "B": "Data Analyst , Data analytics , data analysis "
+ },
+ {
+   "A": "Pre-sales Sec Eng",
+   "B": "pre-sales , Presales "
+ },
+ {
+   "A": "Backend Java",
+   "B": "Java , JEE , J2EE , SSJ , server-side , back-end , back end , backend "
+ },
+ {
+   "A": "Prod Eng",
+   "B": "Business Architect , Product Architect , Product manager , Product Owner , Business analyst "
+ },
+ {
+   "A": "BA Proj Server",
+   "B": "Business Analyst , BA , Business Analysis , Business Analytics , Project manager , PM , project management "
+ },
+ {
+   "A": "Web Analyst",
+   "B": "analysis , analyst , analytics "
+ },
+ {
+   "A": "QA Lead",
+   "B": "Selenium , RC , WebDriver , CodedUI , Coded-UI , , Coded UI , CodeUI , Code-UI "
+ },
+ {
+   "A": "Helpdesk Technician",
+   "B": "help desk , help-desk , helpdesk , desktop support , desk support , tech support , technical support "
+ },
+ {
+   "A": "Infra Solns Arch",
+   "B": "Technical Architect , solution architect , solutions architect , infrastructure architect , infrastructure solutions "
+ },
+ {
+   "A": "SOC Analyst",
+   "B": "SOC Analyst , SOC Engineer , Security Engineer , security analyst , security consultant "
+ },
+ {
+   "A": "UX Researcher",
+   "B": "UX Researcher , User Experience Researcher , User-Experience Researcher "
+ },
+ {
+   "A": "AB Tester",
+   "B": "Analyst "
+ },
+ {
+   "A": ".NET Dev",
+   "B": ".NET , C# "
+ },
+ {
+   "A": "iOS Dev",
+   "B": "iOS "
+ },
+ {
+   "A": "Front-End Dev",
+   "B": " Front-End , UI , user interface , web "
+ },
+ {
+   "A": "SysAdmin",
+   "B": "Linux Admin , linux system , linux systems , Linux Engineer , Linux expert , Linux SME "
+ },
+ {
+   "A": "SysAdmin",
+   "B": "Web Application Security , Web Application Screening , WAS"
+ },
+ {
+   "A": "Campaign Analyst",
+   "B": "digital Marketing , digital Analyst , marketing analyst "
+ },
+ {
+   "A": "BPA",
+   "B": "Business Analyst , BA , process analyst , Business Process Analyst "
+ },
+ {
+   "A": "Network Eng",
+   "B": "Data center , datacenter "
+ },
+ {
+   "A": "Mobile Dev",
+   "B": "iOS , "
+ },
+ {
+   "A": "Infra Solns Arch",
+   "B": "Infrastructure Architect , Infrastructure Solutions , Infrastructure Solution "
+ },
+ {
+   "A": "SOC Analyst",
+   "B": "SOC , security operations , operations center "
+ },
+ {
+   "A": "Backend Dev",
+   "B": "backend , back-end , server-side , serverside "
+ },
+ {
+   "A": "Director Internal Audit",
+   "B": "SOX , Sarbox , Sarbanes , Sarbanes-Oxley "
+ },
+ {
+   "A": ".NET Dev",
+   "B": ".NET , C# "
+ },
+ {
+   "A": "iOS Dev",
+   "B": "iOS , iphone , ipad "
+ },
+ {
+   "A": "Network Eng",
+   "B": "Internetwork Operating System , Inter-Network Operating System , Cisco IOS , NX-OS , NX OS , NXOS "
+ },
+ {
+   "A": "QA Analyst",
+   "B": "HTML , HTML5 , CSS , CSS3 , code email , code emails , coded email , coded emails , coding email , coding emails "
+ },
+ {
+   "A": "OpenSips Dev",
+   "B": "OpenSIPS , OpenSIP , Open-Sips , Session Initiation Protocol , SIP , Kamailio "
+ },
+ {
+   "A": "QA Eng",
+   "B": "Quality Assurance , QA , test "
+ },
+ {
+   "A": "App Admin",
+   "B": "Human Capital Management , HCM , HRIS , Human resource information system "
+ },
+ {
+   "A": "Oracle DBA",
+   "B": "Oracle DBA , Oracle Database Administrator , Oracle Database Administration , Oracle Database Admin , Oracle Administrator , Oracle Admin "
+ },
+ {
+   "A": "SOA Arch",
+   "B": "Architect "
+ },
+ {
+   "A": "Apps Eng",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Cloud Services",
+   "B": "Amazon Web Services , AWS , Cloudformation , cloud-formation "
+ },
+ {
+   "A": "NOC Spec/Sys Admin",
+   "B": "NOC Specialist , NOC Technical , NOC Consultant , Systems Admin , Systems Administrator , SysAdmin , System Administrator , System Admin "
+ },
+ {
+   "A": "Lead Sys Eng",
+   "B": "Systems Engineer , System Engineer "
+ },
+ {
+   "A": "Java QA Eng",
+   "B": "Quality Assurance , QA , test , tester "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , JEE , JSE , J2EE , J2SE "
+ },
+ {
+   "A": "Release Mgr",
+   "B": "Release Manager , Change Manager "
+ },
+ {
+   "A": "Front-End Dev",
+   "B": "ExtJS , ext.js , ext-js "
+ },
+ {
+   "A": "C# Dev",
+   "B": "C# "
+ },
+ {
+   "A": "Sharepoint Dev",
+   "B": "Sharepoint Server , Sharepoint Designer "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , J2EE "
+ },
+ {
+   "A": "Angular Dev",
+   "B": "Javascript "
+ },
+ {
+   "A": "Ruby Dev",
+   "B": "Ruby Developer , Ruby on Rails Developer , Rails Developer , Ruby Engineer , Ruby on Rails Engineer , RoR Engineer , RoR Developer , Ruby Software Engineer , Ruby SWE , Rails Software Engineer , Rails SWE "
+ },
+ {
+   "A": "SF Admin",
+   "B": "Sales-Force Administrator , Sales Force Administrator , salesforce administrator , salesforce.com administrator , salesforce.com admin , Salesforce Admin , Sales Force Admin , Sales-Force Admin , Salesforce Consultant "
+ },
+ {
+   "A": "SF Dev",
+   "B": "C# , .NET "
+ },
+ {
+   "A": "QA Analyst",
+   "B": "Quality Assurance , QA , device tester , device testing "
+ },
+ {
+   "A": "Spectrum Admin",
+   "B": "CA Spectrum , CA UIM"
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , J2EE , JEE "
+ },
+ {
+   "A": "Infra Eng",
+   "B": "Network* , VLAN , VLANs , Collusion , SPAN , packet analyzer , packet analyzers , TCPDUMP , TCP Dump , TCP-Dump , DNS , DHCP , NTP , TCP/IP , Cisco , Proliant , Blade "
+ },
+ {
+   "A": "Java Dev",
+   "B": "J2SE , server-edition , server edition , client-server , server-side , back-end , SE , JSP , Servlet , Servlets "
+ },
+ {
+   "A": "SF Arch",
+   "B": "SalesForce.com , Salesforce , Sales-Force , SFDC "
+ },
+ {
+   "A": "PSFT Cons",
+   "B": "Fusion"
+ },
+ {
+   "A": "VP IT",
+   "B": "Director of IT , Director of Information Technology , Director of Technology , IT Director , Technology Director , VP of IT VP of Information Technology , VP of Technology , Technology VP , IT VP , Vice President of IT , Vice President of Information Technology , Vice President of Technology , IT Vice President , Technology Vice President "
+ },
+ {
+   "A": "C# Dev",
+   "B": "C# "
+ },
+ {
+   "A": ".NET Dev",
+   "B": "C# , .NET "
+ },
+ {
+   "A": "QA Eng",
+   "B": "Quality Assurance , QA , Test , Testing "
+ },
+ {
+   "A": "Sec Eng",
+   "B": "CISSP , CISM , CRISC , CISA , PMP , ITIL , ITILv3F "
+ },
+ {
+   "A": "BI Dev",
+   "B": "BI Developer , Business Intelligence Developer , BI Applications , Business Intelligence Applications "
+ },
+ {
+   "A": "Prod/App Support",
+   "B": "retail "
+ },
+ {
+   "A": "IT PM",
+   "B": "Project Manager , Project Administrator , Project Admin , Project Coordinator , PM "
+ },
+ {
+   "A": "Client Onboarding Spec",
+   "B": "on-boarding , on boarding "
+ },
+ {
+   "A": "SAP Admin",
+   "B": "SAP Administrator , SAP Admin , SAP Basis , Basis Administrator , Basis Admin , SAP Basis Consultant "
+ },
+ {
+   "A": "SAS Dev",
+   "B": "SAS Analyst , SAS Developer , SAS Engineer , SAS Programmer , SAS Consultant "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Tech Analyst",
+   "B": "Root Cause Analysis , RCA "
+ },
+ {
+   "A": "Finance Dir",
+   "B": "Director "
+ },
+ {
+   "A": "Lead .NET Dev",
+   "B": ".NET , C# "
+ },
+ {
+   "A": "Sec Eng",
+   "B": "Java , C++ , Perl , Python , Shell , XML , SOAP , AJAX "
+ },
+ {
+   "A": "Sec Eng",
+   "B": "Security "
+ },
+ {
+   "A": "Lead Instructor",
+   "B": "instructor , professor , teach , taught "
+ },
+ {
+   "A": "Comp Sys Mgr",
+   "B": "Lead , Manager "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java Developer , JEE Developer ,  J2EE Developer , Java Software Engineer , JEE Software Engineer , J2EE Software Engineer , Java SWE , JEE SWE , J2EE SWE "
+ },
+ {
+   "A": "Prog Mgr",
+   "B": "Project Manager , Project Coordinator , Program Manager , PM "
+ },
+ {
+   "A": "SQL DBA",
+   "B": "SQL DBA , SQL Database Administrator , SQL Database Admin , SQL Server DBA , SQL Server Database Administrator , SQL Server Database Admin , SQL Database Administrator , Database Administrator , MSSQL DBA , MSSQL Database Administrator , MS SQL DBA , MS SQL Database Administrator "
+ },
+ {
+   "A": "Dir Tech Support",
+   "B": "Director , Manager "
+ },
+ {
+   "A": "PM Dig Exp",
+   "B": "Project Manager , PM "
+ },
+ {
+   "A": "Dir of Tech",
+   "B": "Director , Manager , VP , vice president , Development Manager , Development Director "
+ },
+ {
+   "A": "Bus Cons",
+   "B": "retail , enterprise software , enterprise solutions "
+ },
+ {
+   "A": "QA .NET",
+   "B": "Quality Assurance , QA , test , tester "
+ },
+ {
+   "A": ".NET Dev",
+   "B": "Developer , Engineer , Programmer "
+ },
+ {
+   "A": "WorkLight Dev",
+   "B": "Java , JEE , J2EE , J2SE , J2ME "
+ },
+ {
+   "A": "Bus Sys Analyst",
+   "B": "Business Analyst , BA , BSA , Business Systems , Business System "
+ },
+ {
+   "A": "Linux Admin",
+   "B": "Linux Admin , Linux Administrator , System Administrator , Systems Administrator , System Admin , Systems Admin "
+ },
+ {
+   "A": "Social Media Sales",
+   "B": "Social Media , social analytics , social listening "
+ },
+ {
+   "A": "Fin Sys Mgr",
+   "B": "Manager , Director "
+ },
+ {
+   "A": "QA Analyst",
+   "B": "QA , Quality Assurance "
+ },
+ {
+   "A": "Data Modeler",
+   "B": "Data Modeler , Data Analyst , Data modeling , Data Modelling "
+ },
+ {
+   "A": "SaaS Bus Cons",
+   "B": "Business Analyst , BA "
+ },
+ {
+   "A": "Infra Eng",
+   "B": "Linux System , Linux Systems , Linux Admin , Linux Administrator , Linux Administration "
+ },
+ {
+   "A": "SQL Solns Arch",
+   "B": "Database Architect , DB Architect , Solutions Architect , Database Solutions "
+ },
+ {
+   "A": "SWE",
+   "B": "Software Engineer , SWE , Software Developer "
+ },
+ {
+   "A": "QA Analyst",
+   "B": "Quality Assurance , QA , Test , Testing "
+ },
+ {
+   "A": "QA Analyst",
+   "B": "Quality Assurance , QA , Test , Testing "
+ },
+ {
+   "A": "DevOps Eng",
+   "B": "Dev-Ops , DevOps , Development Operations "
+ },
+ {
+   "A": "PM",
+   "B": "Project Manager , PM "
+ },
+ {
+   "A": "QA",
+   "B": "Quality Assurance , QA , Test , Testing "
+ },
+ {
+   "A": "Bus SW Cons",
+   "B": "Project Manager , PM , business analyst , BA , Consultant "
+ },
+ {
+   "A": "SDET",
+   "B": "SDET , in test "
+ },
+ {
+   "A": "QA Analyst",
+   "B": "Quality Assurance , QA , Test , Testing , automation "
+ },
+ {
+   "A": "Accountant",
+   "B": "Accountant , Accounting "
+ },
+ {
+   "A": "Prac Sales ",
+   "B": "Enterprise "
+ },
+ {
+   "A": "SDET",
+   "B": "Quality Assurance , QA , test , SDET "
+ },
+ {
+   "A": "Fin Mgr",
+   "B": "Oracle "
+ },
+ {
+   "A": "BCM Planner",
+   "B": "BCM Planner , BCM Consultant , BCP , Business Continuity Planner , Business continuity plan , Business continuity plans , Business Continuity Planning , business continuity "
+ },
+ {
+   "A": "Lead UI Dev",
+   "B": "Lead , Leader , manager , Sr , Senior "
+ },
+ {
+   "A": "Full-Stack Java Dev",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Release Mgr",
+   "B": "Project Manager , project management , PM , release manager "
+ },
+ {
+   "A": "JDE Cons",
+   "B": "JDE Consultant , JD Edwards Consultant , JDEdwards Consultant , JDE Analyst , JD Edwards Analyst , JDEdwards Analyst , JDE Functional , JD Edwards Functional , JDEdwards Functional , JDE1 Consultant , JDE Financial Consultant , JDE Financials Consultant , JDE Financials Analyst , JD Edwards Financial , JDEdwards Financial , JDEdwards Financials , JD Edwards Financials "
+ },
+ {
+   "A": "Full-Stack Dev",
+   "B": "Javascript "
+ },
+ {
+   "A": "Tech BA",
+   "B": "Business Analyst , BA "
+ },
+ {
+   "A": "Jr iOS Dev",
+   "B": "iOS Developer , iOS Engineer , iOS Software Engineer , iOS SWE , mobile developer "
+ },
+ {
+   "A": "UI Eng",
+   "B": "User Interface , User-interface , UI "
+ },
+ {
+   "A": "Broadcast Eng/Sys Analyst",
+   "B": "Broadcast , Broadcasting , VOD , video-on-dem"
+ },
+ {
+   "A": "Tier 2 Support",
+   "B": "tech support , technical support , tier-2 , tier 2 , help desk , helpdesk , desktop support , DevOps "
+ },
+ {
+   "A": "Infra BA",
+   "B": "business analyst , BA , business systems analyst , BSA "
+ },
+ {
+   "A": "Infra PM",
+   "B": "project manager , PM "
+ },
+ {
+   "A": "Test Eng",
+   "B": "Quality Assurance , QA , Test , testing , automation "
+ },
+ {
+   "A": "Mktg Coord",
+   "B": "marketing coordinator , marketing consultant , marketing technician , marketing analyst "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , JEE , J2EE , J2SE , J2ME "
+ },
+ {
+   "A": "SysAdmin",
+   "B": "System Administrator , Systems Administrator , system admin , systems admin , Linux System , linux systems , linux administrator , linux admin , Linux administration "
+ },
+ {
+   "A": "Mil Std Mgr",
+   "B": "military st"
+ },
+ {
+   "A": "Web Tester",
+   "B": "Test Plans , test planning "
+ },
+ {
+   "A": "RR Test Eng",
+   "B": "Railroad , RR , locomotive , X,ail , ARINC , Rockwell Collins "
+ },
+ {
+   "A": "IT PM",
+   "B": "Data Center , datacenter , infrastructure "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java Developer , JEE Developer ,  J2EE Developer , Java Software Engineer , JEE Software Engineer , J2EE Software Engineer , Java SWE , JEE SWE , J2EE SWE , Java Engineer , Java Consultant , JEE Engineer , J2EE Engineer , JEE Consultant , J2EE Consultant "
+ },
+ {
+   "A": "Sec Eng",
+   "B": "Network Security , Systems Security , Application Security "
+ },
+ {
+   "A": "ETL Test Eng",
+   "B": "QA Engineer , Quality Assurance Engineer , QA Analyst , Quality Assurance Analyst , Test Engineer , Test Consultant , Test Analyst , Testing Analyst , Testing Engineer , Testing Consultant "
+ },
+ {
+   "A": "PM",
+   "B": "Project Manager , PM "
+ },
+ {
+   "A": "BPM Dev",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , JEE , J2EE , J2SE , J2ME "
+ },
+ {
+   "A": "Java Arch",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "HelpDesk Tech",
+   "B": "Help Desk , help-desk , helpdesk , desktop support , desk support , tech support , technical support "
+ },
+ {
+   "A": "Data Modeler",
+   "B": "Data Modeler "
+ },
+ {
+   "A": "",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Mobile Dev",
+   "B": "Mobile , Native iOS , Native "
+ },
+ {
+   "A": "Java/ATG Dev",
+   "B": "Java , JEE , J2EE , J2SE , J2ME "
+ },
+ {
+   "A": "Sys Eng",
+   "B": "System Engineer , Systems Engineer , Systems Architect , System Architect , System Consultant , Systems Consultant "
+ },
+ {
+   "A": "Lead Java Dev",
+   "B": "Lead "
+ },
+ {
+   "A": "Finance/Accountant",
+   "B": "Accountant "
+ },
+ {
+   "A": "Practitioner PM",
+   "B": "project manager , PM , Manager "
+ },
+ {
+   "A": "SQL DBA",
+   "B": "Database Administrator , Database Admin , DB Admin , DBAdmin , DBA "
+ },
+ {
+   "A": "SQL DBA",
+   "B": "Database Administrator , Database Admin , DB Admin , DBAdmin , DBA "
+ },
+ {
+   "A": "Bus Arch",
+   "B": "Business Architect , Product Architect , Product manager , Product Owner , Business analyst "
+ },
+ {
+   "A": "Remote PM",
+   "B": "Infrastructure , application development , software development , SDLC "
+ },
+ {
+   "A": "BI Analyst",
+   "B": "Business Intelligence , BI "
+ },
+ {
+   "A": "Manual Tester",
+   "B": "Manual Testing , Manual Tester , Manual QA , QA Analyst , Quality Assurance Analyst "
+ },
+ {
+   "A": "DevOps Eng",
+   "B": "DevOps , Dev-Ops , Platform "
+ },
+ {
+   "A": "QA Eng",
+   "B": "Quality Assurance , QA , Test "
+ },
+ {
+   "A": "PM",
+   "B": "Project Manager , PM , PMP "
+ },
+ {
+   "A": "Web App Dev",
+   "B": "web application , web applications , web apps , web-based application , web-based applications "
+ },
+ {
+   "A": "Workday Analyst",
+   "B": "Workday Analyst , Workday Consultant , Workday technical , Workday functional , workday engineer , Workday administrator , Workday Admin , Workday Architect "
+ },
+ {
+   "A": "Full-Stack Dev",
+   "B": "application developer , applications developer , applications development , application engineer , applications engineer , software engineer , SWE , software developer , full-stack , full stack "
+ },
+ {
+   "A": "Infra PM",
+   "B": "Project Manager , PM "
+ },
+ {
+   "A": "MEAN Web Dev",
+   "B": "web developer , web dev , software engineer , software developer "
+ },
+ {
+   "A": "Web App Dev",
+   "B": "User Interface , User-interface , UI "
+ },
+ {
+   "A": "Auto QA",
+   "B": "auto , automate , automated , automation "
+ },
+ {
+   "A": "Product Mgr",
+   "B": "Product Manager , Product Management , Product Owner , Product Ownership "
+ },
+ {
+   "A": "Infra PM",
+   "B": "Project Manager , PM "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Network Eng",
+   "B": "Network Engineer "
+ },
+ {
+   "A": "Network Eng",
+   "B": "Network Engineer "
+ },
+ {
+   "A": "Software Eng",
+   "B": "Software Developer , Software Engineer , SWE , Programmer "
+ },
+ {
+   "A": "Paid Media Strategist",
+   "B": "paid media "
+ },
+ {
+   "A": "Full-stackUI Eng",
+   "B": "Full-stack , full stack , UI , user interface "
+ },
+ {
+   "A": "Data Scientist",
+   "B": "Data Scientist "
+ },
+ {
+   "A": "SDLC PM",
+   "B": "Project Manager , PM "
+ },
+ {
+   "A": ".NET Dev",
+   "B": ".NET , C# "
+ },
+ {
+   "A": "Cloud Arch/AWS",
+   "B": "Architect "
+ },
+ {
+   "A": "Project Coord",
+   "B": "Project Coordinator , Project Manager , project management , PM , PMP "
+ },
+ {
+   "A": "Prod Arch",
+   "B": "Product Manager "
+ },
+ {
+   "A": "QA Analyst",
+   "B": "Quality Assurance Analyst , QA Analyst , Quality Assurance Engineer , QA Engineer , Quality Assurance Consultant , QA Consultant , Test Analyst , Testing Analyst , Test Engineer , Testing Engineer , Test Consultant , Testing Consultant "
+ },
+ {
+   "A": "Web UI",
+   "B": "Web Developer , Web Dev , UI Developer , User Interface Developer , User-Interface Developer , UI Engineer , User Interface Engineer , User-Interface Engineer "
+ },
+ {
+   "A": "JS Dev",
+   "B": "Front-End Developer , Front End Developer , Front-end Software Engineer , Front End Software Engineer , Front-End SWE , Front End SWE , Web Developer , Javascript Developer , JS Developer , Javascript Engineer , JS Engineer , Javascript Software Engineer , JS Software Engineer  , Javascript Software Developer , JS Software Developer , Javascript SWE , JS SWE "
+ },
+ {
+   "A": "Lead Java Dev",
+   "B": "Lead , manager "
+ },
+ {
+   "A": "Lead Drupal Dev",
+   "B": "Drupal "
+ },
+ {
+   "A": "Tech BA",
+   "B": "BA , Business Analyst "
+ },
+ {
+   "A": "Service Delivery Analyst",
+   "B": "Technical Support , tech support , help desk , helpdesk , desktop "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java Developer , Java Software Engineer , Java SWE , JEE Developer , J2EE Developer , JEE Software Engineer , J2EE Software Engineer , JEE SWE , J2EE SWE , Java/JEE , Java/J2EE "
+ },
+ {
+   "A": "Msg Backbone Admin",
+   "B": "Systems Administrator , Systems Admin , System Administrator , System Admin , Email Administrator , Email Admin , E-Mail Administrator , E-Mail Admin , Messaging Administrator , Messaging Admin , Exchange Administrator , Exchange Admin "
+ },
+ {
+   "A": "App Dev",
+   "B": "Software Engineer , SWE , Software Developer , Application Developer , Applications Developer , App Developer , Apps Developer "
+ },
+ {
+   "A": "SDET",
+   "B": "test engineer , SDET , software development engineer in test , software engineer in test , software developer in test "
+ },
+ {
+   "A": "Tech PM OCE",
+   "B": "Project Manager , PM , PMP "
+ },
+ {
+   "A": "Visualization Eng",
+   "B": "usability , UX , Frontend , front end , Front-End "
+ },
+ {
+   "A": "Fin Analyst",
+   "B": "financial analyst "
+ },
+ {
+   "A": "UI Eng",
+   "B": "UI Engineer , UI Developer , User Interface Engineer , User Interface Developer , User-Interface Engineer , User-Interface Developer , Application Developer , Applications Developer , Application Engineer , Applications Engineer "
+ },
+ {
+   "A": "Dir Dev",
+   "B": "Software Development Director , Software Engineering Director , Director, Software , Director - Software , Director-Software"
+ },
+ {
+   "A": "SWE",
+   "B": "Software Developer , Software Engineer , SWE , Programmer "
+ },
+ {
+   "A": "Auto Eng",
+   "B": "Automation Engineer , QA Engineer , Quality Assurance Engineer , QA Analyst , Quality Assurance Analyst "
+ },
+ {
+   "A": "SAN PM",
+   "B": "Project Manager , PM , PMP "
+ },
+ {
+   "A": "PHP Dev",
+   "B": "Web Developer "
+ },
+ {
+   "A": "Data Scientist",
+   "B": "Data Scientist "
+ },
+ {
+   "A": "DevOps Eng",
+   "B": "Dev-Ops , DevOps , Dev Ops , Development Operations "
+ },
+ {
+   "A": "Cloud Eng",
+   "B": "Cloud "
+ },
+ {
+   "A": "Tririga Dev",
+   "B": "Tririga "
+ },
+ {
+   "A": "PHP Dev",
+   "B": "PHP Developer , PHP Engineer , PHP Software Engineer , PHP software developer , PHP SWE "
+ },
+ {
+   "A": "Imp PM",
+   "B": "Project Manager , PM , PMP "
+ },
+ {
+   "A": "SQL DBA",
+   "B": "SQL Server DBA , SQL DBA , SQL Server Database Administrator , SQL Database Administrator , SQL Server Database Admin , SQL Database Admin , SQL Server Admin , SQL Admin , SQL Server Administrator , SQL Administrator , SQL Developer , SQL Server Developer "
+ },
+ {
+   "A": "UI/UX Dev",
+   "B": "User Experience Developer , User Experience Engineer , UX Developer , UX Engineer , User Interface Developer , User Interface Engineer , UI Engineer , UI Developer , UI/UX Developer , UI/UX Engineer , UX/UI Developer , UX/UI Engineer , Front-End Developer , Front-End Engineer , Front-End Software Engineer , Front-End Software Developer , UI Software Engineer , UI Software Developer , UX Software Developer , UX Software Engineer , UI/UX Software Engineer , UI/UX Software Developer , UX/UI Software Engineer , UX/UI Software Developer "
+ },
+ {
+   "A": "Cloud Eng",
+   "B": "Cloud Engineer , Cloud Developer , Cloud Architect , Cloud Software Developer , Cloud Software Engineer , Cloud SWE "
+ },
+ {
+   "A": "BA",
+   "B": "Business Analyst , BA "
+ },
+ {
+   "A": "Lead Java Dev",
+   "B": "Lead "
+ },
+ {
+   "A": "Java SWE",
+   "B": "java , JEE , J2EE "
+ },
+ {
+   "A": "Cloud Prog Mgr",
+   "B": "Cloud "
+ },
+ {
+   "A": "Web Content Producer",
+   "B": "web content , content producer , content publishing "
+ },
+ {
+   "A": "Linux Dev",
+   "B": "Linux Developer , Software Developer , Software Engineer , SWE "
+ },
+ {
+   "A": "Magento Dev",
+   "B": "Magento "
+ },
+ {
+   "A": "Drupal Dev",
+   "B": "Drupal "
+ },
+ {
+   "A": "DevOps Eng",
+   "B": "DevOps , Dev-Ops , Dev Ops , Development Operations "
+ },
+ {
+   "A": "WordPress Dev",
+   "B": "WordPress Developer , WordPress Engineer , WordPress Software Engineer , Web Developer , Web Master , Webmaster "
+ },
+ {
+   "A": "QA Eng",
+   "B": "QA Engineer , Quality Assurance Engineer , QA Analyst , Quality Assurance Analyst , Test Engineer , Test Consultant , Test Analyst , Testing Analyst , Testing Engineer , Testing Consultant "
+ },
+ {
+   "A": "Tech PM",
+   "B": "Project Manager , PM , PMP "
+ },
+ {
+   "A": "ERP Dev",
+   "B": "ERP "
+ },
+ {
+   "A": "QA IDM",
+   "B": "Quality Assurance Analyst , QA Analyst , Quality Assurance Engineer , QA Engineer , Quality Assurance Consultant , QA Consultant , Test Analyst , Testing Analyst , Test Engineer , Testing Engineer , Test Consultant , Testing Consultant "
+ },
+ {
+   "A": "Sys Eng",
+   "B": "Systems Engineer , System Engineer "
+ },
+ {
+   "A": "Sec Eng",
+   "B": "CISSP , CISM , CISA "
+ },
+ {
+   "A": "SW Dev Mgr",
+   "B": "Manager , Lead , Architect "
+ },
+ {
+   "A": "BSA",
+   "B": "Business Analyst , BA "
+ },
+ {
+   "A": "Performance Eng",
+   "B": "APM , Application Performance Management , Application Performance Manager "
+ },
+ {
+   "A": "QA Tester",
+   "B": "Git ,Subversion , SVN , ClearCase , version control "
+ },
+ {
+   "A": "Network Admin",
+   "B": "Network Admin , Network Administrator "
+ },
+ {
+   "A": "Exchange Admin",
+   "B": "Exchange Administrator , Exchange Admin , Exchange Consultant , Exchange Engineer "
+ },
+ {
+   "A": "Privacy Analyst",
+   "B": "Privacy Analyst , Privacy Engineer , Privacy Consultant "
+ },
+ {
+   "A": "C# Dev",
+   "B": ".NET Developer , .NET Engineer , Software Developer , Software Engineer , SWE , Programmer "
+ },
+ {
+   "A": "Messaging Eng",
+   "B": "Java Developer , J2EE Developer , Java/J2EE Developer , J2EE/Java Developer , Software Engineer , Software Developer , DevOps Engineer "
+ },
+ {
+   "A": "Privacy Analyst",
+   "B": "HIPAA audit , HIPAA audits , HIPAA auditing , audit HIPAA , audited HIPAA , auditing HIPAA "
+ },
+ {
+   "A": "QA Analyst",
+   "B": "Quality Assurance , QA , Test , Tester "
+ },
+ {
+   "A": "Mobile QA Eng",
+   "B": "Quality Assurance , QA , Test , Tester "
+ },
+ {
+   "A": "Java Arch",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Sys Admin",
+   "B": "System Administrator , Systems Administrator , system admin , systems admin , SysAdmin "
+ },
+ {
+   "A": "Sys Eng",
+   "B": "Systems Engineer , System Engineer , Sys Eng , SysEng , Linux Engineer , Windows Engineer "
+ },
+ {
+   "A": "Full-Stack Dev",
+   "B": "Developer , Engineer "
+ },
+ {
+   "A": "C Dev",
+   "B": "Engineer , Developer , Programmer "
+ },
+ {
+   "A": "Sharepoint Admin",
+   "B": "SharePoint Admin , SharePoint Administrator , Share-Point Admin , Share-Point Administrator , Share Point Admin , Share Point Administrator "
+ },
+ {
+   "A": "Analytics Prog Mgr",
+   "B": "Program Manager , Program Management "
+ },
+ {
+   "A": "Web Dev",
+   "B": "Web Developer , JavaScript Developer , Angular Developer , AngularJS Developer , Angular.JS Developer , Angular-JS Developer "
+ },
+ {
+   "A": "Backend Dev",
+   "B": "Java Developer , J2EE Developer , Java/J2EE Developer , J2EE/Java Developer , Software Engineer , Software Developer , DevOps Engineer "
+ },
+ {
+   "A": "SDET",
+   "B": "Test Automation Engineer , Software Developer in Test , Software Engineer in Test , SDET , SWET "
+ },
+ {
+   "A": "Info Sec Analyst",
+   "B": "Information Security , Info Security , IT Security , Information Technology Security , infosec , info sec "
+ },
+ {
+   "A": "IT Mgr",
+   "B": "helpdesk , help desk , technical support , desktop support , tech support "
+ },
+ {
+   "A": "Taleo QA",
+   "B": "Quality Assurance , QA , Test , Testing "
+ },
+ {
+   "A": "SQL Server Dev",
+   "B": "SQL Server "
+ },
+ {
+   "A": "Go Dev",
+   "B": "Java , JEE , J2EE "
+ },
+ {
+   "A": "Data Ops",
+   "B": "Data Specialist , Data Analyst , Data Consultant "
+ },
+ {
+   "A": "Comp SWE",
+   "B": "Software Engineer , Software Developer , SWE , Developer "
+ },
+ {
+   "A": "Fin Analyst",
+   "B": "Finance Analyst , Financial Analyst "
+ },
+ {
+   "A": "Product Arch",
+   "B": "Product Architect , Systems Architect , System Architect , Systems Solutions Architect , System Solutions Architect , Systems Solution Architect , System Solution Architect "
+ },
+ {
+   "A": "Release Mgmt Eng",
+   "B": "Release Management , Release Engineer , Release Manager , Release consultant , Configuration Management "
+ },
+ {
+   "A": "Automation Eng",
+   "B": "Automation , Auto , DevOps , Development Operations , Dev-Ops "
+ },
+ {
+   "A": "Learning Spec",
+   "B": "Learning Specialist , Learning Consultant , instructor , trainer "
+ },
+ {
+   "A": "Data Analyst",
+   "B": "Data Analyst "
+ },
+ {
+   "A": "SDET",
+   "B": "Automation Engineer , QA Engineer , Automation Quality Assurance Engineer , Software Development Engineer in Test , SDET "
+ },
+ {
+   "A": ".NET Dev",
+   "B": "web "
+ },
+ {
+   "A": "SW Mgr",
+   "B": "Manager , Lead "
+ },
+ {
+   "A": "Fin Reporting Accountant",
+   "B": "Accountant , Accounting "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java Developer , Java/J2EE Developer , J2EE/Java Developer , Java Engineer , Software Engineer , SWE "
+ },
+ {
+   "A": "iOS Dev",
+   "B": "Mobile Developer , Mobile Engineer , iOS Developer , iOS Engineer , iOS Consultant "
+ },
+ {
+   "A": "Inventory Spec",
+   "B": "Help Desk , help-desk , helpdesk , desktop support , desk support , tech support , technical support , sales support , supported sales "
+ },
+ {
+   "A": ".NET Dev",
+   "B": "C# , .NET , .NET/C# , C#/.NET "
+ },
+ {
+   "A": "IBM Info Server Admin",
+   "B": "Admin , administrator "
+ },
+ {
+   "A": "Solns Arch/Dev",
+   "B": "Solutions Architect , Solution Architect , Lead Developer , Lead Engineer , Lead Software Engineer , Software Engineer Lead , Developer Lead , Salesforce Architect , Salesforce.com Architect , SFDC Architect "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java Programmer Certification , Java Certification , Java Certified , Certified Java "
+ },
+ {
+   "A": "iOS Dev",
+   "B": "iOS Developer , iOS Engineer , iOS Software Engineer , iOS SWE , mobile developer "
+ },
+ {
+   "A": "Func Analyst",
+   "B": "Quality Assurance Analyst , QA Analyst "
+ },
+ {
+   "A": "Lead Dev",
+   "B": "Software Developer , Software Engineer , SWE , Programmer "
+ },
+ {
+   "A": "HelpDesk Tech",
+   "B": "Help Desk , helpdesk , Help-Desk , desktop support , desktop technician , Technical Support , Tech Support , system support , systems support , Support Tech , support technician "
+ },
+ {
+   "A": "Quality Mgr",
+   "B": "Quality Assurance , Quality Control , Quality System "
+ },
+ {
+   "A": "iOS Dev",
+   "B": "Objective C , Objective-C , Obj-C , ObjC "
+ },
+ {
+   "A": "VP Eng",
+   "B": "Director, Engineering , Engineering Director , Director of Engineering , Director, Software Engineering , Director of Software Engineering , Software Engineering Director , Director, Software Development , Director of Software Development , Software Development Director , Software Development Manager , Manager, Software Development , Manager of Software Development , Software Engineering Manager , Software Engineer Manager , Manager, Software Engineering , Manager of Software Engineering , Engineering VP , Engineering Vice President , VP of Engineering , Vice President of Engineering , VP, Engineering , Vice President, Engineering"
+ },
+ {
+   "A": "Platform Dev",
+   "B": "Ruby , Rails , RoR , Ruby-on-Rails , Ruby/Rails "
+ },
+ {
+   "A": "Accounts Payable Spec",
+   "B": "Accounts Payable , AP "
+ },
+ {
+   "A": "Accountant",
+   "B": "Accountant , CPA "
+ },
+ {
+   "A": "Auto Eng",
+   "B": "Automation Engineer , QA Engineer , Quality Assurance Engineer "
+ },
+ {
+   "A": "UI Eng",
+   "B": "UI , user interface , user-interface , frontend , front-end , front end "
+ },
+ {
+   "A": "Drupal Dev",
+   "B": "Drupal Developer , Drupal Software Engineer Drupal SWE , Drupal Web Developer , Web Developer , Software Engineer , SWE "
+ },
+ {
+   "A": "Cloud Arch",
+   "B": "Cloud Architect "
+ },
+ {
+   "A": "Tech Services Cons",
+   "B": "Implementation , implementations , implement , implemented "
+ },
+ {
+   "A": "Symantec Support Eng",
+   "B": "Symantec "
+ },
+ {
+   "A": "Fin Mgr",
+   "B": "Hyperion Manager , Hyperion Financial Services Manager , Hyperion Project Manager , Hyperion Administrator , Hyperion Admin , Hyperion Consultant "
+ },
+ {
+   "A": "IAM Analyst",
+   "B": "Security Analyst , Security Consultant , Identity Access Management Analyst , IAM Analyst , Identity "
+ },
+ {
+   "A": "iOS Dev",
+   "B": "iOS Developer , iOS Software Engineer , iOS Engineer , iOS SWE , Mobile Developer , Mobile Software Engineer , Mobile Engineer , Mobile SWE , mobile application , Mobile applications "
+ },
+ {
+   "A": "Cyber Sec Eng",
+   "B": "Security Engineer , Security Consultant , Security Analyst , Cyber Security "
+ },
+ {
+   "A": "SWE",
+   "B": "Software Engineer , Software Developer , SWE , Developer "
+ },
+ {
+   "A": "Controller",
+   "B": "accountant , Controller "
+ },
+ {
+   "A": "DB Arch",
+   "B": "Database Architect , DB Architect , Database Solutions , database architecture "
+ },
+ {
+   "A": "JS Dev",
+   "B": "Engineer , Developer "
+ },
+ {
+   "A": "QA Lead",
+   "B": "Quality Assurance Lead , QA Lead , Quality Assurance Manager , QA Manager , Lead of Quality Assurance , Lead, Quality Assurance , Manager of Quality Assurance , Manager, Quality Assurance , Manager, QA "
+ },
+ {
+   "A": "Dir Prog Mgmt",
+   "B": "Program Manager , Program Management "
+ },
+ {
+   "A": "QA Lead",
+   "B": "Lead, QA , QA Lead , Quality Assurance Lead , Lead Quality Assurance , Lead QA "
+ },
+ {
+   "A": "Sys Admin",
+   "B": "System Administrator , Systems Administrator , System Admin , Systems Admin , SysAdmin "
+ },
+ {
+   "A": "Java/Scala Dev",
+   "B": "Java Developer , Java/J2EE Developer , J2EE/Java Developer , Java Engineer , Software Engineer , SWE , Scala Developer , Scala Software Engineer , Scala SWE "
+ },
+ {
+   "A": "Perl/Java Dev",
+   "B": "Perl Developer , Perl Software Engineer , Perl SWE , Perl Programmer , Java Developer , Java/J2EE Developer , Java Software Engineer , Java/J2EE Software Engineer , Java SWE , Java/J2EE SWE , J2EE Developer , J2EE SWE , J2EE Software Engineer , Software Engineer , SWE , Software Developer "
+ },
+ {
+   "A": "Full-Stack UI Dev",
+   "B": "Software Engineer , SWE , Software Developer , Application Developer , Applications Developer , App Developer , Apps Developer "
+ },
+ {
+   "A": "Mgr Channel Mgmt",
+   "B": "Manager , Lead "
+ },
+ {
+   "A": "MS Dev",
+   "B": "Software Engineer , Software Developer , .NET Developer , .NET Software Engineer , C#/.NET Developer , .NET/C# Developer "
+ },
+ {
+   "A": "VB Dev",
+   "B": "Software Engineer , Software Developer , .NET Developer , .NET Software Engineer , C#/.NET Developer , .NET/C# Developer , VB Developer , VB Software Engineer , VB SWE , VB.NET Developer , VB.NET Software Engineer , VB.NET SWE "
+ },
+ {
+   "A": "Solns Arch",
+   "B": "Splunk "
+ },
+ {
+   "A": "ServiceNow PM",
+   "B": "Project Manager , PM "
+ },
+ {
+   "A": "Prod Arch",
+   "B": "Systems Architect , Systems Solutions Architect , System Solutions Architect , Product Architect "
+ },
+ {
+   "A": "Prod Arch",
+   "B": "Architect "
+ },
+ {
+   "A": "MFT Spec",
+   "B": "Security Engineer , Security Consultant , Security Analyst "
+ },
+ {
+   "A": "C++ Dev",
+   "B": "Software Engineer , SWE , Software Developer , C/C++ Developer , C++ Developer "
+ },
+ {
+   "A": "ITSM BA",
+   "B": "Business Analyst , BA "
+ },
+ {
+   "A": "UI Eng",
+   "B": "Software Engineer , Software Developer , UI Engineer , UI Developer , User Interface Engineer , User Interface Developer , UI SWE "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java Developer , Java Engineer , Java/J2EE Developer , Java/J2EE Engineer , Software Engineer , Software Developer , SWE "
+ },
+ {
+   "A": ".NET Dev",
+   "B": "Software Engineer , Software Developer , .NET Developer , .NET Engineer , C# Engineer , C# Developer , C#/.NET Developer , C#/.NET Engineer , .NET/C# Engineer , .NET/C# Developer "
+ },
+ {
+   "A": "UI Eng",
+   "B": "UI Engineer , UI Developer , User Interface Engineer , User Interface Developer , User-Interface Engineer , User-Interface Developer , Front-End Developer , Front End Developer , Front-End Engineer , Front End Engineer "
+ },
+ {
+   "A": "Auto Eng",
+   "B": "QA Engineer , Quality Assurance Engineer , Automation Engineer , Automation test engineer "
+ },
+ {
+   "A": "Storage Admin",
+   "B": "Storage Admin , Storage Administrator , Database Admin , Database Administrator "
+ },
+ {
+   "A": "Sys Admin",
+   "B": "System Administrator , System Admin , Systems Administrator , Systems Admin , SysAdmin , Sys Admin "
+ },
+ {
+   "A": "Sys Perf Analyst",
+   "B": "System Analyst , Systems Analyst , Reporting Analyst , Performance Analyst "
+ },
+ {
+   "A": "Cloud Migration PM",
+   "B": "Program Manager "
+ },
+ {
+   "A": "Java Dev",
+   "B": "Java Developer , Java Engineer , Java/J2EE Developer , Java/J2EE Engineer , Java Software Engineer , Java Software Developer , Java SWE , Java/J2EE Software Engineer , Java/J2EE Software Developer , Java/J2EE SWE "
+ },
+ {
+   "A": "iOS Dev",
+   "B": "iOS Developer , iOS Engineer , iOS Mobile Developer , iOS Mobile Software Engineer , iOS Software Engineer , iOS Software Developer , iOS SWE , Mobile Developer , Mobile Engineer , Mobile Software Engineer , Mobile Software Developer"
+ },
+ {
+   "A": "SW Arch",
+   "B": "Software Architect , Software Solutions Architect , SW Architect "
+ },
+ {
+   "A": "Internal Auditor",
+   "B": "Internal Auditor , Internal Audit , Internal Audits "
+ },
+ {
+   "A": "Cloud Eng",
+   "B": "Cloud Engineer , Cloud Developer , Cloud Architect , Cloud Software Developer , Cloud Software Engineer , Cloud SWE "
+ },
+ {
+   "A": "Sec Prog Mgr",
+   "B": "Program Manager "
+ },
+ {
+   "A": "DevOps Eng",
+   "B": "DevOps Engineer , DevOps Developer , Dev-Ops Engineer , Dev-Ops Developer , Dev Ops Engineer , Dev Ops Developer "
+ },
+ {
+   "A": "Blockchain Prod Arch",
+   "B": "product manager , product owner , product architect , solutions architect , business architect "
+ },
+ {
+   "A": "App Arch",
+   "B": "Architect , architecture "
+ },
+ {
+   "A": "Network Sec Eng",
+   "B": "Security Engineer , Network Security , Network Engineer "
+ },
+ {
+   "A": "Ruby Dev",
+   "B": "Ruby Developer , Ruby on Rails Developer , Ruby-on-Rails Developer , RoR Developer , Ruby Engineer , Ruby on Rails Engineer , Ruby-on-Rails Engineer , RoR Engineer , Ruby Software Engineer , Ruby on Rails Software Engineer , Ruby-on-Rails Software Engineer , RoR Software Engineer , Ruby SWE , Ruby on Rails SWE , Ruby-on-Rails SWE , RoR SWE "
+ },
+ {
+   "A": "QA Analyst",
+   "B": "QA Analyst , QA Engineer , QA Consultant , Quality Assurance Analyst , Quality Assurance Engineer , Quality Assurance Consultant , Test Analyst , Test Engineer , Test Consultant , Testing Analyst , Testing Engineer , Testing Consultant "
+ },
+ {
+   "A": "Auto Eng",
+   "B": "Automation , Auto , DevOps , Development Operations , Dev-Ops "
+ }
+ ]
